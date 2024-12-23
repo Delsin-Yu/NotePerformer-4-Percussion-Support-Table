@@ -1,5 +1,7 @@
 # NotePerformer 4 Percussion Support Table
 
+## Table | [XLSX](https://github.com/user-attachments/files/18232807/NotePerformer4.Supported.Instruments.zip)
+
 |Name|Timpani|Crotales|Tubular Bells|Glockenspiel|Xylophone|Marimba|Glass Marimba|Vibraphone|Agogos|Anvil|Ships Bell|Bass Drum|Bell Tree|Bongos|Cabasa|Castanets|Claves|Concert Toms|Rototoms|Congas|Cowbell|Drum Kit|Finger Cymbals|Mahler Hammer|Pulli Sticks|Guiro|Hand Claps|Mark Tree|Metal Chimes|Crash Cymbal|Field Drum|Rain Stick|Shaker|Slapstick|Sleigh Bells|Snare Drum|Suspended Cymbal|Rivet Cymbal|Taiko|Tam-tam|Tambourine|Taos Drum|Temple Blocks|Timbales|Tenor Drum|Triangle|Wind Gong|Vibraslap|Ratchet|Woodblocks|Celesta|Harp|Harpsichord|Piano|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Berlin Orchestra Berklee Edition|Yes||Yes|Yes|Yes|Yes||Yes||2||28 inch, 36 inch||Yes||High, Low|High, Low|Yes||Yes|Yes||Yes|||Yes|Yes|Yes||15 inch, 19 inch, 20 inch|||2||Yes|Firecracker 10 inch, Majestic Pro 14 inch, Basler Drum 16 inch|Zildjian 14 inch, Zildjian 16 inch|||130 cm, 105 cm, 85 cm|1, Headless||Yes|Yes||Yes||Yes||Yes|Yes|Yes|||
